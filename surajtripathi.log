@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.2)  2 OCT 2022 14:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.2)  13 NOV 2024 20:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -60,60 +60,59 @@ LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--19
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--19
+Underfull \hbox (badness 10000) in paragraph at lines 23--28
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--51
+Underfull \hbox (badness 10000) in paragraph at lines 23--28
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--51
+Underfull \hbox (badness 10000) in paragraph at lines 44--60
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--51
+Underfull \hbox (badness 10000) in paragraph at lines 44--60
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--51
+Underfull \hbox (badness 10000) in paragraph at lines 44--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--60
 
  []
 
 [1
 
 {/usr/local/texlive/2022basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (0.76747pt too wide) in paragraph at lines 53--58
-[]\OT1/cmr/bx/n/10 Languages : \OT1/cmr/m/n/10 Java(Proficient), Nodejs (Good),
- C(Good), C++(Good), Python(Good),
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--67
+Underfull \hbox (badness 10000) in paragraph at lines 69--76
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--67
+Underfull \hbox (badness 10000) in paragraph at lines 69--76
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--70
+Underfull \hbox (badness 10000) in paragraph at lines 77--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--76
+Underfull \hbox (badness 10000) in paragraph at lines 81--85
 
  []
 
@@ -121,18 +120,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--76
 Here is how much of TeX's memory you used:
  502 strings out of 479719
  8785 string characters out of 5880574
- 303491 words of memory out of 5000000
+ 305491 words of memory out of 5000000
  18579 multiletter control sequences out of 15000+600000
  470866 words of font info for 33 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 48i,5n,52p,229b,216s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 48i,5n,52p,223b,208s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/surajtripathi/Library/texlive/2022basic/texmf-var/fonts/pk/ljfour
 /jknappen/ec/tcrm1000.600pk></usr/local/texlive/2022basic/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022basic/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022basic/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2022basic/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on surajtripathi.pdf (2 pages, 75863 bytes).
+Output written on surajtripathi.pdf (2 pages, 76888 bytes).
 PDF statistics:
  36 PDF objects out of 1000 (max. 8388607)
  22 compressed objects within 1 object stream
